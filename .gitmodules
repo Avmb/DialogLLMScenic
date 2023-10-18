@@ -1,0 +1,3 @@
+[submodule "Scenic"]
+	path = Scenic
+	url = https://github.com/BerkeleyLearnVerify/Scenic.git
