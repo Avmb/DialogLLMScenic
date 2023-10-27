@@ -15,4 +15,13 @@ The data augmentations in scenario_generation/curated_50_50_split_augmented/ hav
 
 # Cite as
 
-TODO: add arxiv link
+```
+@misc{micelibarone2023dialoguebased,
+      title={Dialogue-based generation of self-driving simulation scenarios using Large Language Models}, 
+      author={Antonio Valerio Miceli-Barone and Alex Lascarides and Craig Innes},
+      year={2023},
+      eprint={2310.17372},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
