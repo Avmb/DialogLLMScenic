@@ -1,5 +1,6 @@
 # DialogLLMScenic
-Dialogue-based generation of self-driving simulation scenarios using Large Language Models
+
+Code for the paper [Dialogue-based generation of self-driving simulation scenarios using Large Language Models](https://arxiv.org/abs/2310.17372)
 
 # Instructions
 
