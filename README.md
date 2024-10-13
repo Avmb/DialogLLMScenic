@@ -11,7 +11,7 @@ Code for the paper [Dialogue-based generation of self-driving simulation scenari
 # License
 
 BSD 3-Clause (see LICENSE).
-Note: this repository contains data created from processing the examples in the [Scenic repository](https://github.com/BerkeleyLearnVerify/Scenic), the Scenic autors retain all the rights to this data.
+Note: this repository contains data created from processing the examples in the [Scenic repository](https://github.com/BerkeleyLearnVerify/Scenic), the Scenic authors retain all the rights to this data.
 The data augmentations in scenario_generation/curated_50_50_split_augmented/ have been created with the OpenAI GPT-3 model (text-davinci-003) and they are therefore subject to the [OpenAI Terms and policies](https://openai.com/policies). These augmentations are not necessary to run the experiments.
 
 # Cite as
